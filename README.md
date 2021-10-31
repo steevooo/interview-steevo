@@ -3,6 +3,7 @@ Question : Q1.docx
 
 framework used : CodeIgniter,
 Database used : MySQL,
+PHP version : 7.2.33
 project-name : employees-detail,
 database-name : employee,
 
