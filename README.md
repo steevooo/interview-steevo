@@ -1,10 +1,12 @@
 # interview-steevo
+Question : Q1.docx
+
 framework used : CodeIgniter,
 Database used : MySQL,
 project-name : employees-detail,
 database-name : employee,
 
-project file(employees-detail.zip) place to the path  xampp\htdocs\
+project file(employees-detail.zip) extract and place to the path  xampp\htdocs\
 
 import the database(employee.sql) to phpmyadmin
 
